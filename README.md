@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Abhishek Majumdar**, a software developer who enjoys working throughout the SDLC from requirements elicitation, design/architecture choices all the way to designing robust backend systems using Python and JavaScript, with a growing focus on AI-driven applications. Below is a quick snapshot of who I am and what I work with. A few cool GitHub stats follow at the end.
+I'm **Abhishek Majumdar**, a software developer who enjoys working throughout the SDLC from requirements elicitation, design/architecture choices all the way to designing robust backend systems using Python and JavaScript, with a growing focus on AI-driven applications. Below is a small description about myself along with the technology stack I have used and the ones I am currently learning.
 
 ### A bit about myself:
 ```yaml
@@ -38,7 +38,7 @@ about_me:
   contact:
     email: mabhishek1705@gmail.com
 
-  fun_fact: I am a little judgemental towards a new city based on how good the food is 🍲🥪
+  fun_fact: I am a little judgemental towards a new city I visit based on how good the food is 🍲🥪
 ```
 
 
