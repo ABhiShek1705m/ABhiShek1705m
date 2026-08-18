@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there I'm Abhishek👋
 
 A software developer who enjoys working across the stack — from building clean, responsive interfaces to designing solid backend systems, with a growing focus on AI-powered applications. Below is a quick snapshot of the tools and technologies I work with, and what I am currently working on.
 
