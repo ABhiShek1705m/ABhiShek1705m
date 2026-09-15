@@ -18,7 +18,7 @@ about_me:
 
   stack:
     frontend: [React, Next.js, Tailwind CSS]
-    backend: [Node.js/express, NestJS,  FastAPI, Django]
+    backend: [Node.js/express, FastAPI, NestJS, Django]
     data-science: [Numpy, Pandas, R, Matlab]
     database: [SQLite, PostgreSQL, Redis]
     devops: [Docker, GitLab CI/CD, GitHub Actions]
@@ -62,9 +62,9 @@ about_me:
 > <img src="./devLogos/openai-icon.svg" style="height:3em"/>
 
 
-### I am currently working on
-> Doing my first open-source contribution at [**Jabref**](https://github.com/JabRef/jabref) Bibliography manager
-<br>
+### I am currently working on/learning about
+> Learning about ML algorithms and there applications in real-world projects
+> Integrating AI-driven features in full-stack applications.
 
 
 <!--
